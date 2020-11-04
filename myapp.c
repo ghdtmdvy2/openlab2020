@@ -4,5 +4,6 @@
 int main(void)
 {
 	foo();
+	my_experiment_function();
 	return 0;
 }
